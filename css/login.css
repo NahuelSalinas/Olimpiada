@@ -49,7 +49,7 @@ input[type="submit"]{
 }
 
 input[type="submit"]:hover{
-    background-color: #6172be;
+    background-color: #2e4cd3;
     color: white;
     transition: 0.4s;
 }
